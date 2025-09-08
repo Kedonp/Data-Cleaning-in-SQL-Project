@@ -3,7 +3,7 @@
 -- 1. Create copy of table to preserve raw data 
 -- 2. Remove Duplicates
 -- 3. Standarized the Data
--- 4. Null Values or blank values
+-- 4. Clean null Values or blank values
 -- 5. Remove Any Columns
 
 
