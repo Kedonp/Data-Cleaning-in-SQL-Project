@@ -24,7 +24,7 @@ This project walks through a full SQL data cleaning process using a world layoff
 - Converted dates into proper DATE format
 - Filled missing and blank values where possible
 - Dropped helper columns used for cleaning
-**Note: Some null values remain where accurate data could not be confirmed.**
+- **Note: Some null values remain where accurate data could not be confirmed.**
 
   # Key Takeaways
 - Cleaning your data is just as important as analyzing it. The raw dataset had duplicates, messy text, and inconsistent formats that needed to be fixed first.
