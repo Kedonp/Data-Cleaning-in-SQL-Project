@@ -8,7 +8,7 @@ This project walks through a full SQL data cleaning process using a world layoff
 
 ## Goals
 - Keep a backup of the original data before making changes
-- Find and remove duplicate rows
+- Find and remove duplicate data
 - Fix inconsistent values (like company names, countries, and industries)
 - Change date values from text into proper date format
 - Handle null and blank values
